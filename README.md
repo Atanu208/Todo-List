@@ -5,7 +5,6 @@ Key Features:
 2. Read: The application displays the list of tasks in a clean and intuitive interface. Each task item includes essential details such as the task description, due date (if applicable), and completion status, making it easy for users to review their to-do list at a glance.
 3. Delete: Completed or irrelevant tasks can be effortlessly removed from the list by clicking on the "Delete" button associated with each task. This feature ensures that the to-do list remains up to date and clutter-free.
 ![image](https://github.com/Atanu208/Todo-List/assets/56972986/4799e3b1-4476-49bb-9ef1-bec0be58a893)
-
 Technology Stack
 - React.js: The core framework used for building the user interface and managing the application's state efficiently.
 - HTML5 & CSS3: Responsible for creating a responsive and visually appealing design.
